@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Javac
+- 💬 Ask me about **Java**
 - **
 
 - 📫 How to reach me **savindiabeykoon@gmail.com**
