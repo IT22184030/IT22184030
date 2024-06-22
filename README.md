@@ -10,8 +10,7 @@
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Java**
-- **
-
+  
 - 📫 How to reach me **savindiabeykoon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
