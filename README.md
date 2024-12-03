@@ -5,7 +5,7 @@
 
 ---
 
-- 🔭 I’m an undergraduate at **SLIIT**
+- 🔭 I’m an Data Science undergraduate at **SLIIT**
 
 - 🌱 I’m currently learning **Python**
 
